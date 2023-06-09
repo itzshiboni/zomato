@@ -1,0 +1,23 @@
+/* Common Elements  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#hr1{
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+}
+
+/* Navigation Bar  */
+
+#navbar{
+    display: flex;
+    background-color: rgb(120, 114, 114);
+}
+
+#logoimg{
+    height: 55px;
+    margin: 10px 40px;
+    border-radius: 22px;
+}
